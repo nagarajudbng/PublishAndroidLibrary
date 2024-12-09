@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PublishAndroidLibrary"
 include(":app")
+include(":MathLibrary")
